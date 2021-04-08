@@ -1,0 +1,33 @@
+/* Add your styles here */
+body{
+  background-color:#222223;
+}
+h1{
+font-family:sans-serif, bold;
+font-style: bold;
+color: white;
+}
+h2{
+font-family:sans-serif;
+font-style: bold;
+color: #d73f3f;
+}
+h3{
+font-family:sans-serif;
+font-style: bold;
+color: #981b1b;
+}
+p{
+font-family:Helvetica Neue,helvetica,arial,sans-serif;
+color: white;
+
+}
+li{
+  color: white;
+}
+.col{
+padding: 20px;
+border-radius: 20px;
+border: 5px solid #16171c;
+background-color: #2b2b2b;
+}
